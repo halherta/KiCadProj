@@ -1,0 +1,9 @@
+[submodule "AdditionalLibraries/arduino-kicad-library"]
+	path = AdditionalLibraries/arduino-kicad-library
+	url = https://github.com/Alarm-Siren/arduino-kicad-library.git
+[submodule "AdditionalLibraries/kicad-libraries"]
+	path = AdditionalLibraries/kicad-libraries
+	url = https://github.com/espressif/kicad-libraries.git
+[submodule "AdditionalLibraries/espressif-kicad-libraries"]
+	path = AdditionalLibraries/espressif-kicad-libraries
+	url = https://github.com/espressif/kicad-libraries.git
