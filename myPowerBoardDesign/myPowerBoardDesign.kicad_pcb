@@ -45,7 +45,7 @@
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
 			(creategerberjobfile yes)
@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerber/")
 		)
 	)
 	(net 0 "")
@@ -94,7 +94,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C7"
-			(at 0 -1.85 270)
+			(at 0 -1.85 -90)
 			(layer "F.SilkS")
 			(uuid "360823e6-d03f-41d1-8c87-895bd4491994")
 			(effects
@@ -105,7 +105,7 @@
 			)
 		)
 		(property "Value" "0.1u"
-			(at 0.8 1.45 270)
+			(at 0.8 1.45 -90)
 			(layer "F.Fab")
 			(uuid "36f9808f-5242-4a34-8b41-82a7b3025935")
 			(effects
@@ -257,7 +257,7 @@
 			(uuid "33a82379-00f9-41f9-8988-2b705ce6675e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "2a9c84c5-7c4f-4644-bd79-7d3aa41844dd")
 			(effects
@@ -271,7 +271,7 @@
 			(at -1.5625 0 90)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 2 "GND")
 			(pintype "passive")
 			(uuid "d52d72f2-9585-4673-9752-9b2fd9dac524")
@@ -280,7 +280,7 @@
 			(at 1.5625 0 90)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 4 "+5V")
 			(pintype "passive")
 			(uuid "08463eb3-6bcf-4366-9be5-d32dd7152ac8")
@@ -304,7 +304,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at -3.55 -0.5 270)
+			(at -3.55 -0.5 -90)
 			(layer "F.SilkS")
 			(uuid "67a2d922-439c-447b-9a67-8daf264a640e")
 			(effects
@@ -481,7 +481,7 @@
 			(at -1.5625 0 180)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 2 "GND")
 			(pintype "passive")
 			(uuid "106d82d5-3f90-479c-b0fb-7f29424a406e")
@@ -490,7 +490,7 @@
 			(at 1.5625 0 180)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 1 "VIN")
 			(pintype "passive")
 			(uuid "f501d8dd-1221-44e3-84a3-212f9f6178e5")
@@ -1132,7 +1132,7 @@
 			(at -1.5625 0 270)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 2 "GND")
 			(pintype "passive")
 			(uuid "d4ef7a09-a233-43d4-a202-34299d901daf")
@@ -1141,7 +1141,7 @@
 			(at 1.5625 0 270)
 			(size 1.325 1.8)
 			(layers "F.Cu" "F.Paste" "F.Mask")
-			(roundrect_rratio 0.188679)
+			(roundrect_rratio 0.1886792453)
 			(net 3 "+3V3")
 			(pintype "passive")
 			(uuid "ebac7fa4-30f7-4a44-be2b-c19c214a5ad4")
@@ -1165,7 +1165,7 @@
 		(descr "Bourns SRN1060 series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRN1060.pdf")
 		(tags "Bourns SRN1060 SMD inductor")
 		(property "Reference" "L1"
-			(at 0 -6.2 270)
+			(at 0 -6.2 -90)
 			(layer "F.SilkS")
 			(uuid "2c9ee1fc-17ac-4d71-b850-a421161ae0aa")
 			(effects
@@ -1176,7 +1176,7 @@
 			)
 		)
 		(property "Value" "47u"
-			(at 0 6.2 270)
+			(at 0 6.2 -90)
 			(layer "F.Fab")
 			(uuid "0b5bc4bc-1322-423b-91e4-4add70d25bd0")
 			(effects
@@ -1388,7 +1388,7 @@
 			(uuid "8bd33010-c310-45ed-8df4-a525103ab36f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "1f3c14c4-2674-4f35-883b-f91fcff4c997")
 			(effects
@@ -2732,7 +2732,7 @@
 		(descr "SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOP SO")
 		(property "Reference" "U2"
-			(at -2.6 -4 270)
+			(at -2.6 -4 -90)
 			(layer "F.SilkS")
 			(uuid "99a34538-3767-4e42-ac5c-fafc5cd54d1b")
 			(effects
@@ -2743,7 +2743,7 @@
 			)
 		)
 		(property "Value" "AP1509-50SG-13"
-			(at 0 3.4 270)
+			(at 0 3.4 -90)
 			(layer "F.Fab")
 			(uuid "6eb1bf7c-e142-4b61-a2df-5a1f3f8b8788")
 			(effects
@@ -2937,7 +2937,7 @@
 			(uuid "754223ef-5d33-4c73-9ab1-4fc009100280")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "8231d213-3ff1-4b68-abc3-0e43d2661260")
 			(effects
