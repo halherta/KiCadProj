@@ -1145,15 +1145,15 @@
 			)
 		)
 	)
-	(fp_text_box "DaughterBoard\nTemplate v0.1\nHussam\nAl-Hertani"
-		(start 29.76 -49.441)
-		(end 40.428 -32.677)
+	(fp_text_box "BaseBoard\nTemplate v0.1\nHussam\nAl-Hertani"
+		(start -29.464 -49.441)
+		(end -18.796 -32.677)
 		(layer "B.SilkS")
 		(uuid "0b66e62c-80ec-4bbe-ac54-691cbdb1a9ac")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.1)
+				(size 1.5 1.5)
+				(thickness 0.15)
 			)
 			(justify left top mirror)
 		)

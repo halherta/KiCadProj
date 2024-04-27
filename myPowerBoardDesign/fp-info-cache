@@ -1,4 +1,4 @@
-147178453273408
+148899653766652
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94933,13 +94933,20 @@ https://www.addicore.com/Pro-Mini-p/ad249.htm
 0
 29
 29
-digikey
-SOP-8L_DIO
+logos
+heritage-logo
 
-AP1509-50SG-13 
+
 0
-8
-8
+0
+0
+logos
+heritage-logo-small
+
+
+0
+0
+0
 myparts
 Arduino_UNO_R2
 Arduino UNO R2, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
@@ -94952,15 +94959,15 @@ BaseBoardTemplate
 
 
 0
-62
-62
+52
+52
 myparts
 DaughterBoardTemplate
 https://docs.arduino.cc/retired/boards/arduino-101-619
 
 0
-52
-52
+42
+42
 myparts
 DaughterBoard_foot_Do_not_use
 https://docs.arduino.cc/retired/boards/arduino-101-619
