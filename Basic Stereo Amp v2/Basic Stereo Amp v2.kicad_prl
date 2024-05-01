@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -23,9 +23,9 @@
       "lockedItems": false,
       "otherItems": false,
       "pads": false,
-      "text": false,
-      "tracks": true,
-      "vias": false,
+      "text": true,
+      "tracks": false,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "RailSplitter.kicad_prl",
+    "filename": "Basic Stereo Amp v2.kicad_prl",
     "version": 3
   },
   "project": {
