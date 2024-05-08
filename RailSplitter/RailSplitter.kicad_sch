@@ -3763,7 +3763,7 @@
 		)
 		(uuid "fe80aa65-cb59-4ec5-9e37-1800ec1ea3c7")
 	)
-	(text "MMSZ5240B"
+	(text "MMSZ5233B "
 		(exclude_from_sim no)
 		(at 39.37 85.09 0)
 		(effects

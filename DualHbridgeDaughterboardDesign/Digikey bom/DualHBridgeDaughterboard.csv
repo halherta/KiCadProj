@@ -1,0 +1,12 @@
+﻿Index,Manufacturer Part Number,Manufacturer Name,Description,Availability,Stock Status,Attrition %,Requested Quantity 1,Pack Quantity 1,Pack Type 1,Digi-Key Part Number 1,Unit Price 1,Extended Price 1,Minimum Order Quantity 1,Product Notes
+1,AOD4189,Alpha & Omega Semiconductor Inc.,MOSFET P-CH 40V 40A TO252,"57,009",In Stock,,4,4,Cut Tape (CT),785-1351-1-ND,0.86000,$3.44,1,
+2,AOD66406,Alpha & Omega Semiconductor Inc.,MOSFET N-CH 40V 25A/60A TO252,"39,562",In Stock,,4,4,Cut Tape (CT),785-AOD66406CT-ND,0.84000,$3.36,1,
+3,MIC4427YM,Microchip Technology,IC GATE DRVR LOW-SIDE 8SOIC,"10,538",In Stock,,4,4,Tube,576-1525-5-ND,2.03000,$8.12,1,
+4,MC74HC08ADR2G,onsemi,IC GATE AND 4CH 2-INP 14SOIC,"16,104",In Stock,,1,1,Cut Tape (CT),MC74HC08ADR2GOSCT-ND,0.84000,$0.84,1,
+5,B250-13-F,Diodes Incorporated,DIODE SCHOTTKY 50V 2A SMB,"6,844",In Stock,,8,8,Cut Tape (CT),B250-FDICT-ND,0.62000,$4.96,1,
+6,1935161,Phoenix Contact,TERM BLK 2POS SIDE ENTRY 5MM PCB,"141,498",In Stock,,3,3,Bulk,277-1667-ND,0.73000,$2.19,1,
+7,RC1206JR-071K6L,YAGEO,RES 1.6K OHM 5% 1/4W 1206,"199,395",In Stock,,1,1,Cut Tape (CT),311-1.6KERCT-ND,0.15000,$0.15,1,
+8,HSMS-C150,Broadcom Limited,LED RED DIFFUSED CHIP SMD,"52,865",In Stock,,1,1,Cut Tape (CT),516-1440-1-ND,0.60000,$0.60,1,
+9,EEE-FT1V331AP,Panasonic Electronic Components,CAP ALUM 330UF 20% 35V SMD,"16,358",In Stock,,1,1,Cut Tape (CT),PCE5018CT-ND,1.44000,$1.44,1,
+10,C1206C104K5RAC7800,KEMET,CAP CER 0.1UF 50V X7R 1206,"1,776,380",In Stock,,1,1,Cut Tape (CT),399-C1206C104K5RAC7800CT-ND,0.15000,$0.15,1,
+11,PRT-11417,SparkFun Electronics,ARDUINO STACKABLE HEADER KIT - R,"1,510",In Stock,,1,1,Bulk,1568-1413-ND,2.54000,$2.54,1,
