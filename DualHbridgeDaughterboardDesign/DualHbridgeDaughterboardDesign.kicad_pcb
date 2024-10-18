@@ -215,7 +215,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/f81ddda3-bfc6-4ed9-b83b-4808aa664d2d")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 2.15)
@@ -500,7 +500,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/ca5d4a2d-f70c-4e64-bf22-07925df280f8")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -2.15)
@@ -785,7 +785,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/81aabae2-235f-4f40-a464-0d3badc6ca18")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 2.15)
@@ -1070,7 +1070,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e9dbbfae-5797-4304-97f3-3d41b6cb8413")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.46 1.135)
@@ -1305,7 +1305,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/69fa1d0d-66b9-483d-8a8d-c9a501c598bd")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.2 -6.3)
@@ -2389,7 +2389,7 @@
 		)
 		(path "/904d1cdf-d70a-44c5-af7f-5aa3d623c7b8")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.11 3.45)
@@ -2785,7 +2785,7 @@
 		)
 		(path "/afa4e503-a831-47b9-a08a-306801f5a482")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.11 -3.45)
@@ -3181,7 +3181,7 @@
 		)
 		(path "/c96a622b-6ce1-41d4-a9c4-2a965971f39a")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.11 3.45)
@@ -3578,7 +3578,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*P0.65mm*")
 		(path "/928c0de3-8461-493a-b656-638c12e6db1d")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.56)
@@ -3895,7 +3895,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/02c87c2a-bb5a-412e-a777-8ee28caf30b2")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.727064 0.91)
@@ -4108,7 +4108,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*P0.65mm*")
 		(path "/017247d0-308d-4d90-823e-dd0808aaa91f")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 2.56)
@@ -4424,7 +4424,7 @@
 		)
 		(path "/79ed8c93-5b0e-4755-9b03-ca104baeafeb")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.31 -3.45)
@@ -4821,7 +4821,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/c41fa62a-aaf2-450d-b0d7-b8831f450a66")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -2.15)
@@ -5106,7 +5106,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/1d74d5ef-2e30-462e-8e9d-6dd41ab8f787")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 2.15)
@@ -5391,7 +5391,7 @@
 		(property ki_fp_filters "DIP*W7.62mm*")
 		(path "/f25d1533-285a-4834-9554-3dc41afc5b33")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -4.435)
@@ -5756,7 +5756,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/8829389c-2185-4082-9545-437e6bff1b31")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 2.15)
@@ -6041,7 +6041,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/e9a9aff1-e2ee-499d-8669-e9b16cd39281")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.2 -6.3)
@@ -7125,7 +7125,7 @@
 		)
 		(path "/18ba52b2-21a5-457e-b40b-215c35023680")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 3.11 -3.45)
@@ -7522,7 +7522,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b1408ce2-4d62-4b2d-b411-80bbf597579a")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.195563 4.26)
@@ -7966,7 +7966,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/bd80e614-7413-4a0c-9bc4-dd5f4e91505e")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -2.15)
@@ -8251,7 +8251,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/ecf1e336-e0bb-42cd-94ff-3eaf64788c5d")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.65 -6.3)
@@ -9335,7 +9335,7 @@
 		)
 		(path "/7e381545-75b5-418f-a965-4d788cd584e5")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.31 3.45)
@@ -9731,7 +9731,7 @@
 		)
 		(path "/466a3370-ae6e-4e65-a0eb-bb8bdca10dbe")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.31 3.45)
@@ -10128,7 +10128,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*P0.65mm*")
 		(path "/4da3ba4c-70f8-4150-a68c-23fce6cad620")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 2.56)
@@ -10445,7 +10445,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/25eaceef-da56-4851-9cf9-a3873329483c")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -10658,7 +10658,7 @@
 		(property ki_fp_filters "D*SMB*")
 		(path "/0be60756-2766-4899-9924-bea0096cbc00")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -2.15)
@@ -10943,7 +10943,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* MSOP*P0.65mm*")
 		(path "/06f2edf4-1a14-4c96-ba26-b7313b3e7aed")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.56)
@@ -11259,7 +11259,7 @@
 		)
 		(path "/55050b8a-8296-439b-ae54-100194f00b4e")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.31 -3.45)
@@ -12241,7 +12241,7 @@
 		)
 		(path "/892d0bfb-43f8-412b-80bc-875f1dc10c46")
 		(sheetname "Root")
-		(sheetfile "myDaughterBoardDesign.kicad_sch")
+		(sheetfile "DualHbridgeDaughterboardDesign.kicad_sch")
 		(attr through_hole)
 		(fp_circle
 			(center -44.28 -23.354)

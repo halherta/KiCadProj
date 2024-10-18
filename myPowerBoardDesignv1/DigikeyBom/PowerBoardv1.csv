@@ -1,0 +1,9 @@
+﻿Index,Manufacturer Part Number,Manufacturer Name,Description,Availability,Stock Status,Attrition %,Requested Quantity 1,Pack Quantity 1,Pack Type 1,Digi-Key Part Number 1,Unit Price 1,Extended Price 1,Minimum Order Quantity 1,Product Notes
+1,AP1509-50SG-13,Diodes Incorporated,IC REG BUCK 5V 2A 8SOP,"42,033",In Stock,,1,1,Cut Tape (CT),AP1509-50SGDICT-ND,2.15000,$2.15,1,
+2,LM1117MPX-33NOPB,onsemi,IC REG LINEAR 3.3V 800MA SOT223,355,In Stock,,1,1,Cut Tape (CT),488-LM1117MPX-33NOPBCT-ND,1.04000,$1.04,1,
+3,EEE-FK1E331P,Panasonic Electronic Components,CAP ALUM 330UF 20% 25V SMD,"101,235",In Stock,,2,2,Cut Tape (CT),PCE3803CT-ND,1.08000,$2.16,1,
+4,B220-13-F,Diodes Incorporated,DIODE SCHOTTKY 20V 2A SMB,"67,565",In Stock,,1,1,Cut Tape (CT),B220-FDICT-ND,0.70000,$0.70,1,
+5,SRN1060-470M,Bourns Inc.,FIXED IND 47UH 2.5A 110 MOHM SMD,293,In Stock,,1,1,Cut Tape (CT),SRN1060-470MCT-ND,1.29000,$1.29,1,
+6,C1206C104K5RAC7800,KEMET,CAP CER 0.1UF 50V X7R 1206,"1,776,380",In Stock,,2,2,Cut Tape (CT),399-C1206C104K5RAC7800CT-ND,0.15000,$0.30,1,
+7,CL31A226MOCLNNC,Samsung Electro-Mechanics,CAP CER 22UF 16V X5R 1206,"616,624",In Stock,,1,1,Cut Tape (CT),1276-2728-1-ND,0.33000,$0.33,1,
+8,61300511121,Würth Elektronik,CONN HEADER VERT 5POS 2.54MM,"12,341",In Stock,,2,2,Bag,732-5318-ND,0.38000,$0.76,1,
